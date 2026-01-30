@@ -93,7 +93,7 @@ Your health: 100 HP
 - **Stuck?**: Type `quit` to exit and restart.
 
 ## Credits
-- Created by: [Grok 3, built by xAI]
+- Created by: Brad Mills ([@MillsAirCode](https://github.com/MillsAirCode))
 - Purpose: An action-enhanced text adventure for Python enthusiasts.
 
 Enjoy the thrill of escaping the haunted house!
